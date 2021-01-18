@@ -1,4 +1,4 @@
-# Sentiment analysis task
+# Sentiment Analysis Task for Twitter data
 
 ### This project solves sentiment analysis task using dataset from sentiment140.
 ---
