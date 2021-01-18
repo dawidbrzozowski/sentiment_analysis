@@ -1,0 +1,20 @@
+{
+    "PERSON":       "person",
+    "NORP":         "group",
+    "FAC":          "place",
+    "ORG":          "organization",
+    "GPE":          "location",
+    "LOC":          "location",
+    "PRODUCT":      "product",
+    "EVENT":        "event",
+    "WORK_OF_ART":  "art",
+    "LAW":          "law",
+    "LANGUAGE":     "language",
+    "DATE":         "date",
+    "TIME":         "time",
+    "PERCENT":      "percent",
+    "MONEY":        "money",
+    "QUANTITY":     "quantity",
+    "ORDINAL":      "ordinal",
+    "CARDINAL":     "cardinal"
+}

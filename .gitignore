@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+_cache/
+env/
+.DS_Store
+__pycache__
+text_clsf_lib/preprocessing/vectorization/resources/
+
