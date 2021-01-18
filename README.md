@@ -3,12 +3,12 @@
 ### This project solves sentiment analysis task using dataset from sentiment140.
 ---
 
-- If you want to see the results, just open the notebook Sentiment_Analysis_Task.
+- If you want to see the results, just open the notebook Sentiment_Analysis_Task.ipynb directly on github.
 - If you want to run it on your own machine - please follow the provided project setup instructions.
 
 ### Project setup
 ---
-Setup the project running the following command from the root folder:
+Setup the project running the following command from the project root folder:
 ```
 source scripts/setup_project.sh
 ```
